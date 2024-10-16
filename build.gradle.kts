@@ -18,6 +18,9 @@ dependencies {
 
     implementation ("org.apache.logging.log4j:log4j-core:2.20.0")
     implementation ("org.apache.logging.log4j:log4j-api:2.20.0")
+
+    implementation ("javax.mail:javax.mail-api:1.6.2")
+    implementation ("com.sun.mail:javax.mail:1.6.2")
 }
 
 
